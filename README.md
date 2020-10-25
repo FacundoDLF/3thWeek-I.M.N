@@ -1,9 +1,8 @@
-﻿# Link to My Newspapper
+﻿# International Monkey News
 ---
 
-**International Monkey News**
+**Link to my newspapper**
 
-***Link:***
 https://facundodlf.github.io/3thWeek-I.M.N/
 
 
